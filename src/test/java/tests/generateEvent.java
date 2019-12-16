@@ -1,5 +1,5 @@
 package tests;
 
-public class createEvent {
+public class generateEvent {
     //khdskdsk
 }
